@@ -42,7 +42,7 @@ The dataset presented a multitude of challenges related to both data structure a
 
 > A comprehensive examination for duplicate entries shows a very unique form of duplicated entries. John Doe is a single patient with six different patient ID. 
 
-![Duplicated entries](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/duplicated%20enteries.PNG)
+![Duplicated entries](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/duplicated%20enteries.PNG)
 
 
 
@@ -50,13 +50,13 @@ The dataset presented a multitude of challenges related to both data structure a
 
 > Three distinct features: 'treatment', 'start_dose' and 'end_dose' are reported as two features: 'auralin' and 'novodra'.
 
-![structure Anomaly](https://github.com/Bankrid/Auralin-clinical-trial/blob/a05e0ccc5bdd557ce5db8d5ef050097e68f48b1d/Auralin/structural%20anomaly.PNG)
+![structure Anomaly](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/structural%20anomaly.PNG)
 
 
 ### Cleaned Dataset
 Following the comprehensive cleaning process aimed at addressing the identified dataset issues, here are the resultant outcomes.
 
-![Cleaned Dataset](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/cleaned%20dataset.PNG)
+![Cleaned Dataset](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/cleaned%20dataset.PNG)
 
 
 ## Insights
@@ -69,13 +69,13 @@ Below are some of the remarkable insights gleaned from this investigation.
 > There is a statistically significant difference (t = 3.08, p = 0.002, $\alpha$ = 0.05) in HbA1c changes between Novodra and Auralin treatments. Therefore, we reject the null hypothesis, concluding that 
 Novodra leads to a significantly higher HbA1c change compared to Auralin.
 
-![Hba1c Change](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/hba1c%20change.png)
+![Hba1c Change](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/hba1c%20change.png)
 
 #### Are adverse effects observed depend on the dose of auralin or novodra?
 
 > Only Auralin causes adverse effects such as throat irritation and nausea. Also, these side effects tend to be more prevalent with higher doses of auralin. 
 
-![Side Effect](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/side%20effects.png)
+![Side Effect](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/side%20effects.png)
 
 
 #### Does increase dose of auralin or novodra translate to increase HbA1c Reduction?
