@@ -7,7 +7,7 @@
 > *(Disclaimer: The clinical dataset is fabricated for the sake of data wrangling practice on Udacity. It is constructed to simulate real-world dataset with the consults of real doctors. The 'auralin' and 'novodra' are NOT real insulin products, however, it mimics the real clinical trial for an inhaled insulin, Afrezza.)*
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/oral%20insulin.jpg)](https://images.unsplash.com/photo-1593491205049-7f032d28cf5c?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1470)
+[![Banner](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/Insulin.jpg)](https://images.unsplash.com/photo-1593491205049-7f032d28cf5c?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1470)
 
 
 
