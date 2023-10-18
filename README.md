@@ -43,7 +43,7 @@ The dataset presented a multitude of challenges related to both data structure a
 > A comprehensive examination for duplicate entries shows a very unique form of duplicated entries. John Doe is a single patient with six different patient ID. 
  
 <div>
-    <img src = "https://drive.google.com/drive/u/0/folders/1_Du6eNjK1fInXY4t9lQvf0j6ovgEcLZl", alt = "Missing values in patient dataset">
+    <img src = "images/Auralin/duplicated enteries.PNG", alt = "Missing values in patient dataset">
 </div>
 
 
@@ -51,13 +51,15 @@ The dataset presented a multitude of challenges related to both data structure a
 
 > Three distinct features: 'treatment', 'start_dose' and 'end_dose' are reported as two features: 'auralin' and 'novodra'.
 
-![StructuralAnomaly](https://drive.google.com/uc?export=view&id=<1skbbvJvLYtL26Coigy7mcEgw5rw0vQbo>)
+<div>
+    <img src="images/Auralin/structural anomaly.PNG" alt="StructuralAnomaly">                            
+</div>
 
 ### Cleaned Dataset
 Following the comprehensive cleaning process aimed at addressing the identified dataset issues, here are the resultant outcomes.
 
 <div>
-    <img src="https://drive.google.com/drive/u/0/folders/1_Du6eNjK1fInXY4t9lQvf0j6ovgEcLZl" alt="Cleaned Dataset">                            
+    <img src="images/Auralin/cleaned dataset.PNG" alt="Cleaned Dataset">                            
 </div>
 
 ## Insights
@@ -71,7 +73,7 @@ Below are some of the remarkable insights gleaned from this investigation.
 Novodra leads to a significantly higher HbA1c change compared to Auralin.
 
 <div>
-    <img src="https://drive.google.com/drive/u/0/folders/1_Du6eNjK1fInXY4t9lQvf0j6ovgEcLZl" alt="hba1c changes">
+    <img src="images/Auralin/hba1c change.png" alt="hba1c changes">
 </div>
 
 #### Are adverse effects observed depend on the dose of auralin or novodra?
@@ -80,7 +82,7 @@ Novodra leads to a significantly higher HbA1c change compared to Auralin.
 exhibits adverse effects such as throat irritation and nausea. Furthermore, these side effects tend to be more prevalent with higher doses of auralin. 
                   
 <div>
-    <img src="https://drive.google.com/drive/u/0/folders/1_Du6eNjK1fInXY4t9lQvf0j6ovgEcLZl" alt="side effects profile">
+    <img src="images/Auralin/side effects.png" alt="side effects profile">
 </div>
 
 #### Does increase dose of auralin or novodra translate to increase HbA1c Reduction?
@@ -89,7 +91,7 @@ exhibits adverse effects such as throat irritation and nausea. Furthermore, thes
 its corresponding impact on the HbA1c levels, whereas novodra (Corr. Coef. = 0.0898) demonstrates a direct proportional relationship with the response. Using  minimum effective dose of auralin, can mitigate the side effects. 
 
 <div>
-    <img src="https://drive.google.com/drive/u/0/folders/1_Du6eNjK1fInXY4t9lQvf0j6ovgEcLZl" alt="Dose correlation">                                
+    <img src="images/Auralin/dose correlation.png" alt="Dose correlation">                                
 </div>
                     
 
