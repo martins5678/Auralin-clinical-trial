@@ -50,9 +50,7 @@ The dataset presented a multitude of challenges related to both data structure a
 #### Structural Anomaly
 
 > Three distinct features: 'treatment', 'start_dose' and 'end_dose' are reported as two features: 'auralin' and 'novodra.'
-<div>
-    <img src="https://drive.google.com/file/d/1skbbvJvLYtL26Coigy7mcEgw5rw0vQbo/view?usp=sharing" alt="StructuralAnomaly">                            
-</div>
+![StructuralAnomaly](https://drive.google.com/file/d/1skbbvJvLYtL26Coigy7mcEgw5rw0vQbo/view?usp=sharing)
 
 ### Cleaned Dataset
 Following the comprehensive cleaning process aimed at addressing the identified dataset issues, here are the resultant outcomes.
