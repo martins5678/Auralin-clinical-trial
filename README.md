@@ -83,7 +83,7 @@ Novodra leads to a significantly higher HbA1c change compared to Auralin.
 > There is an inverse relationship between the dosage of auralin (Corr. Coef. = -0.0730) and 
 its corresponding impact on the HbA1c levels, whereas novodra (Corr. Coef. = 0.0898) demonstrates a direct proportional relationship with the response. Using  minimum effective dose of auralin, can mitigate the side effects. 
 
-![Dose Correlation](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/dose%20correlation.png)                    
+![Dose Correlation](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/dose%20correlation.png)                    
 
 
 
