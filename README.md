@@ -1,9 +1,13 @@
 
 # Phase II: Oral Insulin Auralin Trials
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankrid.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
+
 > *(Disclaimer: The clinical dataset is fabricated for the sake of data wrangling practice on Udacity. It is constructed to simulate real-world dataset with the consults of real doctors. The 'auralin' and 'novodra' are NOT real insulin products, however, it mimics the real clinical trial for an inhaled insulin, Afrezza.)*
 
 ## Introduction
+![Movie_Recommendations](resources/imgs/Image_header.png)
 Diabetes is a chronic medical condition characterized by elevated blood glucose levels due to the body's inability to properly regulate insulin, a hormone responsible for controlling blood sugar. It is a global health concern, affecting millions of individuals worldwide. Proper management of diabetes is crucial in preventing complications such as heart disease, kidney failure, and vision problems.
 
 One of the cornerstones of diabetes management is insulin therapy. Insulin is a hormone that helps regulate blood sugar by facilitating glucose absorption into cells. Many individuals with diabetes rely on insulin injections to maintain healthy blood sugar levels.
