@@ -93,20 +93,4 @@ its corresponding impact on the HbA1c levels, whereas novodra (Corr. Coef. = 0.0
 ![Dose Correlation](https://raw.githubusercontent.com/bankoleridwan/Auralin-clinical-trial/main/Auralin/dose%20correlation.png)                    
 
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
