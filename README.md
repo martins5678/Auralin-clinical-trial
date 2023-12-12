@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankoleridwan.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
 
@@ -93,3 +94,6 @@ Below are some of the remarkable insights gleaned from the analysis.
 
 
 Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+=======
+
+>>>>>>> 93735579be3b00761dde71305bd1764568930dd9
